@@ -50,14 +50,14 @@ crossorigin="anonymous">
                     <div class="row">
                         <div class="col-12 col-md-6">
                             <div class="caixa-arredondada">
-                                <img src="ilha do medo.jpg" alt="Ilha do Medo">
+                                <img src="https://assets.cinebelasartes.com.br/wp-content/uploads/2016/03/ILHA-DO-MEDO.jpg" width="210" height="270" alt="Ilha do Medo">
                                 <h3>Ilha do Medo</h3>
                                 <h4>Martin Scorsese</h4>
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
                             <div class="caixa-arredondada">
-                                <img src="os outros.jpg" alt="Os Outros">
+                                <img src="https://m.media-amazon.com/images/I/611tlXI0pwL._AC_UF894,1000_QL80_.jpg" width="210" height="270" alt="Os Outros">
                                 <h3>Os Outros</h3>
                                 <h4>Alejandro Amenábar</h4>
                             </div>
@@ -69,5 +69,4 @@ crossorigin="anonymous">
     </div>
 </body>
 </html>
-
 
